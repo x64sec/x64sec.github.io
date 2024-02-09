@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - OSCP NOTEs: "https://gabb4r.gitbook.io/oscp-notes/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Tags: "tags"
 
 ################
 # --- Logo --- #
@@ -273,7 +273,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
