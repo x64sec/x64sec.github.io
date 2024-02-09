@@ -22,7 +22,7 @@ author: x64sec
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - OSCP NOTEs: "https://gabb4r.gitbook.io/oscp-notes/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
